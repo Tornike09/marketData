@@ -1,0 +1,9 @@
+.stylesList li {
+    max-width: 400px;
+    width: 90%;
+    padding: 6px;
+    font-family: sans-serif;
+}
+.stylesList li:hover {
+    background-color: rgb(230, 230, 230);
+}
