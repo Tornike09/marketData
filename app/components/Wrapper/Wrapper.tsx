@@ -1,12 +1,12 @@
-import { Chart } from "../Chart/Chart"
-import { Header } from "../Header/Header"
-import { Main } from "../Main/Main"
+import { Chart } from "../Chart/Chart";
+import { Header } from "../Header/Header";
+import { Main } from "../Main/Main";
 
 export const Wrapper = () => {
-    return (
-        <div>
-            <Header/>
-            <Main/>
-        </div>
-    )
-}
+  return (
+    <div>
+      <Header />
+      <Main />
+    </div>
+  );
+};
